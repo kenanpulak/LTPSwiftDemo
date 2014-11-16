@@ -19,11 +19,11 @@
 
 ### Arrays and Dictionaries
 * Creating and updating Arrays
+* Array.Count(), Array.Slice()
 
 ## Incomplete Topics Include:
 
 ### Arrays and Dictionaries
-* Array.Count(), Array.Slice()
 * Array Functions
 * Creating a Dictionary
 * Dictionary Functions
