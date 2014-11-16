@@ -17,10 +17,12 @@
 * For loops
 * For...In Loops
 
+### Arrays and Dictionaries
+* Creating and updating Arrays
+
 ## Incomplete Topics Include:
 
 ### Arrays and Dictionaries
-* Creating and updating Arrays
 * Array.Count(), Array.Slice()
 * Array Functions
 * Creating a Dictionary
