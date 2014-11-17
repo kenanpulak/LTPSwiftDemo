@@ -21,11 +21,11 @@
 * Creating and updating Arrays
 * Array.Count(), Array.Slice()
 * Array Functions
+* Creating a Dictionary
 
 ## Incomplete Topics Include:
 
 ### Arrays and Dictionaries
-* Creating a Dictionary
 * Dictionary Functions
 
 ### Functions
