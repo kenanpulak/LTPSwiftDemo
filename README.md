@@ -28,10 +28,10 @@
 * Function Definition and Function Calls
 * Functions That Take Argument(s)
 * Functions That Return Value(s)
+* Variable/Constant Scope and Functions
 
 ## Incomplete Topics Include:
 ### Functions
-* Variable/Constant Scope and Functions
 * Nested Functions
 
 ### Classes and Protocols
