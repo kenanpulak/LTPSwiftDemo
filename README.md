@@ -22,12 +22,9 @@
 * Array.Count(), Array.Slice()
 * Array Functions
 * Creating a Dictionary
-
-## Incomplete Topics Include:
-
-### Arrays and Dictionaries
 * Dictionary Functions
 
+## Incomplete Topics Include:
 ### Functions
 * Function Definition and Function Calls
 * Functions That Take Argument(s)
