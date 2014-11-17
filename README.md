@@ -24,9 +24,11 @@
 * Creating a Dictionary
 * Dictionary Functions
 
-## Incomplete Topics Include:
 ### Functions
 * Function Definition and Function Calls
+
+## Incomplete Topics Include:
+### Functions
 * Functions That Take Argument(s)
 * Functions That Return Value(s)
 * Variable/Constant Scope and Functions
