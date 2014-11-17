@@ -29,11 +29,9 @@
 * Functions That Take Argument(s)
 * Functions That Return Value(s)
 * Variable/Constant Scope and Functions
-
-## Incomplete Topics Include:
-### Functions
 * Nested Functions
 
+## Incomplete Topics Include:
 ### Classes and Protocols
 * Enums
 * Creating a Class and Instantiation
