@@ -31,9 +31,11 @@
 * Variable/Constant Scope and Functions
 * Nested Functions
 
-## Incomplete Topics Include:
 ### Classes and Protocols
 * Enums
+
+## Incomplete Topics Include:
+### Classes and Protocols
 * Creating a Class and Instantiation
 * Subclasses and Overrides
 * Protocols
