@@ -35,11 +35,9 @@
 * Enums
 * Creating a Class and Instantiation
 * Subclasses and Overrides
-
-## Incomplete Topics Include:
-### Classes and Protocols
 * Protocols
 
+## Incomplete Topics Include:
 ### More Swift Goodness
 * Extensions
 * Operator Overloading
