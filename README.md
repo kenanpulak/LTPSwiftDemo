@@ -41,11 +41,9 @@
 * Extensions
 * Operator Overloading
 * Generics
-
-## Incomplete Topics Include:
-### More Swift Goodness
 * Emojis
 
+## Incomplete Topics Include:
 ### iOS 8 App with Swift
 * Creating an App Layout
 * Creating Outlets and Actions
