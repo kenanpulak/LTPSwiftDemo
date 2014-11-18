@@ -40,10 +40,10 @@
 ### More Swift Goodness
 * Extensions
 * Operator Overloading
+* Generics
 
 ## Incomplete Topics Include:
 ### More Swift Goodness
-* Generics
 * Emojis
 
 ### iOS 8 App with Swift

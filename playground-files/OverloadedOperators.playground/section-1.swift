@@ -16,6 +16,3 @@ var v2 = Vector(x: 9, y: 4, z: 2)
 
 var v3 = v1 + v2
 
-println(v3)
-
-
