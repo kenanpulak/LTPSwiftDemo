@@ -34,10 +34,10 @@
 ### Classes and Protocols
 * Enums
 * Creating a Class and Instantiation
+* Subclasses and Overrides
 
 ## Incomplete Topics Include:
 ### Classes and Protocols
-* Subclasses and Overrides
 * Protocols
 
 ### More Swift Goodness
