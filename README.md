@@ -33,10 +33,10 @@
 
 ### Classes and Protocols
 * Enums
+* Creating a Class and Instantiation
 
 ## Incomplete Topics Include:
 ### Classes and Protocols
-* Creating a Class and Instantiation
 * Subclasses and Overrides
 * Protocols
 
