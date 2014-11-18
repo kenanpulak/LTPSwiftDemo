@@ -43,7 +43,6 @@
 * Generics
 * Emojis
 
-## Incomplete Topics Include:
 ### iOS 8 App with Swift
 * Creating an App Layout
 * Creating Outlets and Actions
