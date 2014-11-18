@@ -37,9 +37,11 @@
 * Subclasses and Overrides
 * Protocols
 
-## Incomplete Topics Include:
 ### More Swift Goodness
 * Extensions
+
+## Incomplete Topics Include:
+### More Swift Goodness
 * Operator Overloading
 * Generics
 * Emojis
