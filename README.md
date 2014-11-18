@@ -39,10 +39,10 @@
 
 ### More Swift Goodness
 * Extensions
+* Operator Overloading
 
 ## Incomplete Topics Include:
 ### More Swift Goodness
-* Operator Overloading
 * Generics
 * Emojis
 
